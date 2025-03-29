@@ -1,0 +1,48 @@
+{
+  "Items": [
+    {
+      "Author": "John Doe",
+      "Genre": "Programming",
+      "AvailableCopies": 20,
+      "TotalCopies": 213,
+      "PageCount": 0,
+      "Id": 1,
+      "Type": "Book",
+      "Title": "C# Fundamentals"
+    },
+    {
+      "Author": "Author",
+      "Genre": "Genre",
+      "AvailableCopies": 6,
+      "TotalCopies": 12,
+      "PageCount": 0,
+      "Id": 2,
+      "Type": "Book",
+      "Title": "Title"
+    },
+    {
+      "Author": "kuma",
+      "Genre": "science",
+      "AvailableCopies": 50,
+      "TotalCopies": 50,
+      "PageCount": 0,
+      "Id": 3,
+      "Type": "Book",
+      "Title": "planets"
+    }
+  ],
+  "Members": [
+    {
+      "BorrowedItems": [],
+      "ID": 1,
+      "Username": "1",
+      "Password": "2"
+    },
+    {
+      "BorrowedItems": [],
+      "ID": 2,
+      "Username": "2",
+      "Password": "2"
+    }
+  ]
+}
